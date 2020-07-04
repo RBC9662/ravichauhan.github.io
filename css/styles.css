@@ -10271,3 +10271,7 @@ div.education-info, div.occupation-info{
   text-align: left;
   margin-bottom: 10px;
 }
+
+div.contant-me-location-number{
+  font-size: 1.25rems;
+}
