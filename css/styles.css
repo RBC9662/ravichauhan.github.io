@@ -10272,6 +10272,10 @@ div.education-info, div.occupation-info{
   margin-bottom: 10px;
 }
 
-div.contant-me-location-number{
-  font-size: 1.25rems;
+div.family-main-div, .education-info, .occupation-info, div.contant-me-location-number b, div.contant-me-location-number span{
+  font-size: 1.25rem;
+}
+
+#carouselExampleControls{
+  padding-bottom: 1.25rem;
 }
