@@ -10267,12 +10267,17 @@ form .row:first-child .floating-label-form-group {
     ==========================================
  */
 
-div.education-info, div.occupation-info{
+div.education-info, div.occupation-info, div.personal-info{
   text-align: left;
   margin-bottom: 10px;
 }
 
-div.family-main-div, .education-info, .occupation-info, div.contant-me-location-number b, div.contant-me-location-number span{
+div.family-main-div,
+.education-info,
+.occupation-info,
+.personal-info,
+div.contant-me-location-number b,
+div.contant-me-location-number span{
   font-size: 1.25rem;
 }
 
